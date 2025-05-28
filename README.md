@@ -31,12 +31,12 @@ It also contains categorical features like gender, race/ethnicity, parental leve
 
 ## How to run the app locally
 
-1. Clone the repository:
+1. Clone the repository:  
   git clone https://github.com/Nouaman-Chaaibi/Students-Performance-in-Exams-EDA.git
-2. Navigate to the project directory:
+2. Navigate to the project directory:  
   cd Students-Performance-in-Exams-EDA
-3. (Optional but recommended) Create and activate a virtual environment:
-  python -m venv env
+3. (Optional but recommended) Create and activate a virtual environment:  
+  python -m venv env  
   env\Scripts\activate
 4. Install dependencies:
   pip install -r requirements.txt
