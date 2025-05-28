@@ -2,6 +2,8 @@
 
 This project analyzes the Students Performance in Exams dataset using Exploratory Data Analysis (EDA) and provides an interactive dashboard built with Streamlit.
 
+🔗 **Live App:** [Open Streamlit Dashboard](https://students-performance-in-exams-eda-feouys3ulum2t8bpz9l3mz.streamlit.app/)
+
 ---
 
 ## Dataset
