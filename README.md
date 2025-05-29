@@ -1,6 +1,6 @@
-# Students Performance in Exams - EDA and Streamlit Dashboard
+# Students Performance in Exams - EDA, ML Predictions, and Streamlit Dashboard
 
-This project analyzes the Students Performance in Exams dataset using Exploratory Data Analysis (EDA) and provides an interactive dashboard built with Streamlit.
+This project analyzes the *Students Performance in Exams* dataset using **Exploratory Data Analysis (EDA)** and **Machine Learning** techniques. It also includes an **interactive dashboard built with Streamlit** that allows users to explore the data and predict student scores.
 
 🔗 **Live App:** [Open Streamlit Dashboard](https://students-performance-in-exams-eda-feouys3ulum2t8bpz9l3mz.streamlit.app/)
 
@@ -19,15 +19,21 @@ It also contains categorical features like gender, race/ethnicity, parental leve
 
 ## Features
 
-- Data cleaning and preprocessing
-- Visualizations:
+- ✅ Data cleaning and preprocessing
+- 📊 Visualizations:
   - Distribution of scores (histograms)
   - Score comparisons by gender, lunch type, parental education, and test preparation course (boxplots)
   - Correlation heatmap between scores
   - Countplots for categorical features relationships
-- Outlier detection
-- Summary statistics by groups
-- Interactive dashboard using Streamlit to explore the dataset visually
+- 🚨 Outlier detection
+- 📈 Summary statistics by groups
+- 🤖 Machine Learning:
+  - Preprocessing with Label Encoding
+  - Train/test split and feature selection
+  - Predictive models (Random Forest)
+  - Performance metrics (R², MSE)
+- 🧠 Interactive ML prediction section in Streamlit
+- 🖥️ Interactive dashboard using Streamlit to explore data and make predictions
 
 ---
 
@@ -53,6 +59,7 @@ It also contains categorical features like gender, race/ethnicity, parental leve
 - matplotlib
 - seaborn
 - streamlit
+- scikit-learn
 
 ---
 
