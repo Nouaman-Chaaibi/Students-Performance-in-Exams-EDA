@@ -2,7 +2,7 @@
 
 This project analyzes the *Students Performance in Exams* dataset using **Exploratory Data Analysis (EDA)** and **Machine Learning** techniques. It also includes an **interactive dashboard built with Streamlit** that allows users to explore the data and predict student scores.
 
-🔗 **Live App:** [Open Streamlit Dashboard](https://students-performance-in-exams-eda-feouys3ulum2t8bpz9l3mz.streamlit.app/)
+🔗 **Live App:** [Open Streamlit Dashboard](https://students-performance-analysis-eda-ml.streamlit.app/)
 
 ---
 
